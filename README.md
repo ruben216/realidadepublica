@@ -21,9 +21,10 @@ Neste momento, iremos focar somente nos dados, e não em "como" extraí-los. Par
 
 
 Inspirações:
-https://www.kaggle.com/cmcoutosilva/an-lise-de-correspond-ncia-c-mara-dos-deputados
-https://escoladedados.org/tutoriais/explorando-as-despesas-do-governo-federal-via-api/
-https://colab.research.google.com/drive/1_ySD8ppLsFAQ3F5AhuGCNpOF41pHVyXy?usp=sharing
+
+- https://www.kaggle.com/cmcoutosilva/an-lise-de-correspond-ncia-c-mara-dos-deputados
+- https://escoladedados.org/tutoriais/explorando-as-despesas-do-governo-federal-via-api/
+- https://colab.research.google.com/drive/1_ySD8ppLsFAQ3F5AhuGCNpOF41pHVyXy?usp=sharing
 
 
 

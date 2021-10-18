@@ -13,7 +13,12 @@ Para enviar requests, é necessário realizar o seguinte passo-a-passo:
 4. Acessar http://portaldatransparencia.gov.br/api-de-dados/cadastrar-email e realizar o login de dois fatores. 
    Nesse momento é gerada a chave de acesso à API.
 
-Feito isso, estamos prontos para enviar requisições ao portal! Existem diversas maneiras de consumir esses dados, uma delas é através do aplicativo Postman (https://www.postman.com/downloads/)
+Feito isso, estamos prontos para enviar requisições ao portal! 
+Existem diversas maneiras de consumir esses dados, e nessa seção são disponibilizados alguns exemplos http://www.portaldatransparencia.gov.br/pagina-interna/603579-api-de-dados-exemplos-de-uso
+
+Neste momento, iremos focar somente nos dados, e não em "como" extraí-los. Para isso, vamos realizar o download diretamente através do aplicativo Postman (https://www.postman.com/downloads/).
+
+
 
 
 

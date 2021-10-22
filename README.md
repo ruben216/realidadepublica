@@ -21,7 +21,7 @@ Neste momento, iremos focar somente nos dados, e não em "como" extraí-los. Par
 
 ## Collab do time
 
-[Notebook Collab] (Notebook.ipynb)
+[Notebook Collab](Notebook.ipynb)
 
 ## Inspirações
 

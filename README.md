@@ -3,7 +3,7 @@
 ## Método de extração dos dados 
 
 O portal de transparência disponibiliza APIs no padrão Rest, que podem ser consumidas para download de conteúdos. Os detalhes podem ser conferidos nessa seção:
-https://portaldatransparencia.cgu.gov.br/api-de-dados
+https://portaldatransparencia.cgu.gov.br/api-de-dados . E os swaggers de todos os serviços estão disponíveis nesse [link](http://api.portaldatransparencia.gov.br/swagger-ui.html#/Emendas%20parlamentares/emendasUsingGET).
 
 Para enviar requests, é necessário realizar o seguinte passo-a-passo:
 

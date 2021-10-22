@@ -19,8 +19,10 @@ Existem diversas maneiras de consumir esses dados, e nessa seção são disponib
 Neste momento, iremos focar somente nos dados, e não em "como" extraí-los. Para isso, vamos realizar o download diretamente através do aplicativo Postman (https://www.postman.com/downloads/).
 
 
+## Collab do time
+https://github.com/ruben216/realidadepublica/blob/main/Notebook.ipynb
 
-Inspirações:
+## Inspirações
 
 - https://www.kaggle.com/cmcoutosilva/an-lise-de-correspond-ncia-c-mara-dos-deputados
 - https://escoladedados.org/tutoriais/explorando-as-despesas-do-governo-federal-via-api/

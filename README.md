@@ -20,7 +20,8 @@ Neste momento, iremos focar somente nos dados, e não em "como" extraí-los. Par
 
 
 ## Collab do time
-https://github.com/ruben216/realidadepublica/blob/main/Notebook.ipynb
+
+[Notebook Collab] (Notebook.ipynb)
 
 ## Inspirações
 
